@@ -1,3 +1,10 @@
 i did this project in "software engineering and Information Quality Assurance" course in university of haifa, we develop a knights move game that has special rules that we get from the lecturer
+
+Knight's Move Chess Game (Software Engineering Course): The game includes a knight, a king, and a queen, each with a special role and unique movements. 
+The player in the game plays as the knight, and the goal is to collect as many points as possible within a set time. The game has different levels, becoming progressively more challenging as the player advances.
+Each level has its own set of rules, and the questions come in varying difficulty (easy, medium, hard), with each level awarding a different number of points for correct answers.
+My role was: wrote functions handling the movements of the knight, king, and queen, as well as functions for point collection by the player. 
+I was also responsible for unit testing, writing code in Java to perform unit tests on specific functions in our game, documented completed tasks in the Scrum report and tracked our progress and used IntelliJ as development environment.
+
 repository:
 https://github.com/milad-k/TheChimps-knights-move
