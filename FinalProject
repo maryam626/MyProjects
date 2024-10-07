@@ -1,3 +1,9 @@
 i did this final project in university of haifa, me and my teammates develop an android app using android studio for arranging private lessons for students in elementary schools
+
+Final Project (Android Application)- Android application that helps students and teachers schedule educational meetings between them by booking a room in a specific school or setting up a meeting via Zoom.
+The app allows students to book and participate in meetings and lessons with the teacher they want at a convenient time for them.
+My role was: to write code using Java to functions that allow the app to delete, add, and update lessons, teachers,
+and students and managing the databaseand the data in the app using Firebase. 
+
 repository:
 https://gitlab.com/Maryamkh2000/final-projest-2023
